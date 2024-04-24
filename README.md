@@ -3,7 +3,7 @@ a java class that that simplifies java syntax like printing, input, file handlin
 
 Usage
 -----
-```
+```java
 public class Test extends SimpleSyntax {
     public void run() {
         print("Hello, World!");
