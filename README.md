@@ -5,6 +5,7 @@ Usage
 -----
 ```java
 public class Test extends SimpleSyntax {
+
     public void run() {
         print("Hello, World!");
         String age = input("Enter age: ");
